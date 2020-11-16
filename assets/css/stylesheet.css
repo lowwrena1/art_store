@@ -29,8 +29,4 @@ a{
 a:hover{
     color: #F0c330;
     transition: 0.5s;
-}
-#carouselExampleControls{
-   width: 900px;
-  
 };
