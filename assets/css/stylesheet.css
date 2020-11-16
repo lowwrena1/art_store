@@ -25,8 +25,4 @@ a{
     text-align: center;
     color: #ffffff;
     font-size: 1.2vw;
-}
-a:hover{
-    color: #F0c330;
-    transition: 0.5s;
 };
