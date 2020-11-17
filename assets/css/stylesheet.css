@@ -29,4 +29,16 @@ a{
 }
 #nav-link{
     float: right;
+}
+#card_one{
+    float:left;
+}
+#card_two{
+    float:center;
+}
+#card_three{
+    float:left;
+}
+#card_four{
+    float:center;
 };
