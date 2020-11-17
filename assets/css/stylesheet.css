@@ -29,16 +29,21 @@ a{
 }
 #nav-link{
     float: right;
+    padding:10px;
 }
 #card_one{
     float:left;
+    padding:10px;
 }
 #card_two{
     float:center;
+    padding:10px;
 }
 #card_three{
     float:left;
+    padding:10px;
 }
 #card_four{
     float:center;
+    padding:10px;
 };
