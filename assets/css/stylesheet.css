@@ -30,7 +30,15 @@ a{
 #nav-link{
     float: right;
     padding:10px;
-    
+}
+.card-img-top{
+    height:250px;
+    width:10px;
+}
+.card{
+    padding: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 #card_one{
     float:left;
@@ -41,7 +49,7 @@ a{
     padding:10px;
 }
 #card_three{
-    float:left;
+    float: left;
     padding:10px;
 }
 #card_four{
